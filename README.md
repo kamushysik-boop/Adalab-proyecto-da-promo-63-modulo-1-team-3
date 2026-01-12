@@ -13,6 +13,7 @@ Proyecto sencillo e interactivo del clásico Tres en Raya, ideal para practicar 
 - 👥 Jugadora vs jugadora
 - 🤖 Jugadora vs máquina
 - Entrada interactiva de jugadas.
+- Turno máquina inteligente
 - Actualización del tablero en cada turno.
 - Detección automática de victoria o empate.
 - Reinicio del tablero al finalizar la partida.
@@ -23,13 +24,15 @@ Estructuras de datos
 
 - Uso de listas de listas y valores "X", "O" y " ".
 
-Funciones
+Funciones para conseguir:
 
 - Mostrar tablero.
+- Iniciar juego
 - Pedir y validar jugadas.
+- Torno máquina inteligente para intentar ganar y bloquear al jugador si se elige modo de juego contra la máquina.
 - Comprobar ganadora o empate.
 - Controlar el flujo principal del juego.
-- Diseño modular y uso de return.
+- Reiniciar tablero
 
 Control de flujo
 
@@ -39,7 +42,7 @@ Control de flujo
 
 Interacción
 
-- input() para jugadas y selección de modo.
+- input() para selección de modo de juego y jugadas.
 - Mensajes claros para guiar a la usuaria.
 
 # Ahorcado (2 jugadores) – Python (Jupyter Notebook)
