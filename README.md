@@ -1,6 +1,6 @@
 # Adalab-proyecto-da-promo-63-modulo-1-team-3
 
-## Juegos
+## Juegos desarrollados
 
 ## 🌍 Juego de Preguntas y Respuestas de Geografía
 
