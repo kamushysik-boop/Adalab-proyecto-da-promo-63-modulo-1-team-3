@@ -1,12 +1,13 @@
 # Adalab-proyecto-da-promo-63-modulo-1-team-3
-Juegos
 
+Juegos
 
 ✨ Tres en Raya (Tic‑Tac‑Toe) en Python
 
 Proyecto sencillo e interactivo del clásico Tres en Raya, ideal para practicar estructuras de datos, funciones y control de flujo en Python.
 
 🎮 Funcionalidades
+
 - Tablero 3×3 representado con listas de listas.
 - Dos modos de juego:
 - 👥 Jugadora vs jugadora
@@ -19,9 +20,11 @@ Proyecto sencillo e interactivo del clásico Tres en Raya, ideal para practicar 
 🧩 Conceptos aplicados
 
 Estructuras de datos
+
 - Uso de listas de listas y valores "X", "O" y " ".
 
 Funciones
+
 - Mostrar tablero.
 - Pedir y validar jugadas.
 - Comprobar ganadora o empate.
@@ -29,13 +32,46 @@ Funciones
 - Diseño modular y uso de return.
 
 Control de flujo
+
 - Bucles while y for.
 - Condicionales if, elif, else.
 - Uso de break para finalizar la partida.
 
 Interacción
+
 - input() para jugadas y selección de modo.
 - Mensajes claros para guiar a la usuaria.
+
+# Ahorcado (2 jugadores) – Python (Jupyter Notebook)
+
+Juego clásico del **ahorcado** hecho en **Python** dentro de un **Jupyter Notebook**.  
+Está pensado para **2 jugadores**: uno escribe la palabra secreta y el otro la adivina letra por letra.
+
+## Cómo se juega
+
+- **Jugador 1** introduce una palabra secreta (se limpia y se pasa a minúsculas).
+- **Jugador 2** intenta adivinar la palabra ingresando **una letra por turno**.
+- Cada fallo suma un intento y se dibuja una parte del ahorcado.
+- El juego termina cuando:
+  - Jugador 2 adivina toda la palabra ✅
+  - Se completa el ahorcado ❌
+  - Jugador 2 escribe **`salir`** 👋
+
+## Requisitos
+
+- Python 3.x
+- (Opcional) Jupyter Notebook / Jupyter Lab
+
+## Ejecutar
+
+1. Abre el notebook.
+2. Ejecuta las celdas en orden.
+3. Sigue las instrucciones en pantalla.
+
+## Notas
+
+- Solo se aceptan letras (a-z).
+- Si repites una letra, el programa avisa y no cuenta como fallo.
 
 Juegos
 
@@ -55,4 +91,4 @@ Juegos
 
 Aprender Python de forma práctica combinando lógica, funciones, estructuras de datos e interacción con la usuaria mediante un juego clásico.
 
-Gracias por leer este README 
+Gracias por leer este README
