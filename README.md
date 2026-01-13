@@ -47,7 +47,7 @@ El juego está desarrollado en Python y se ejecuta dentro de un Jupyter Notebook
 - Evitar que se repitan preguntas
 - Agregar niveles de dificultad
 
-------------------------------------------------------------------------------------------------------------
+---
 
 # Ahorcado (2 jugadores) – Python (Jupyter Notebook)
 
@@ -66,7 +66,7 @@ Está pensado para **2 jugadores**: uno escribe la palabra secreta y el otro la 
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.11
 - (Opcional) Jupyter Notebook / Jupyter Lab
 
 ## Ejecutar
@@ -80,7 +80,8 @@ Está pensado para **2 jugadores**: uno escribe la palabra secreta y el otro la 
 - Solo se aceptan letras (a-z).
 - Si repites una letra, el programa avisa y no cuenta como fallo.
 
-------------------------------------------------------------------------------------------------------------
+---
+
 ## Piedra, Papel o Tijeras
 
 🎮 Piedra, Papel o Tijera en Python Este proyecto implementa el juego clásico Piedra, Papel o Tijera en Python, con dos modos de juego: Jugador contra el ordenador. Modo multijugador para dos personas. El juego se ejecuta en la consola y permite jugar varias rondas hasta que uno de los jugadores alcanza el número de puntos necesarios para ganar.
@@ -95,7 +96,7 @@ Está pensado para **2 jugadores**: uno escribe la palabra secreta y el otro la 
 
 🚀 Posibles mejoras futuras Añadir interfaz gráfica. Guardar resultados en un archivo. Permitir cambiar el número de puntos para ganar. Añadir más modos de juego.
 
-------------------------------------------------------------------------------------------------------------
+---
 
 ## ✨ Tres en Raya (Tic‑Tac‑Toe) en Python
 
