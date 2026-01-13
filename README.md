@@ -100,7 +100,7 @@ Está pensado para **2 jugadores**: uno escribe la palabra secreta y el otro la 
 
 ## ✨ Tres en Raya (Tic‑Tac‑Toe) en Python
 
-Proyecto sencillo e interactivo del clásico Tres en Raya, ideal para practicar estructuras de datos, funciones y control de flujo en Python.
+Proyecto sencillo e interactivo del clásico Tres en Raya. Las instrucciones aparecen al ejecutar la función jugar()
 
 🎮 Funcionalidades
 
@@ -114,23 +114,9 @@ Proyecto sencillo e interactivo del clásico Tres en Raya, ideal para practicar 
 - Detección automática de victoria o empate.
 - Reinicio del tablero al finalizar la partida.
 
-🧩 Conceptos aplicados
+🧩 Conceptos aplicados: Estructuras de datos --> Uso de listas de listas y valores "X", "O" y " ".
 
-Estructuras de datos
-
-- Uso de listas de listas y valores "X", "O" y " ".
-
-Funciones para conseguir:
-
-- Mostrar tablero.
-- Iniciar juego
-- Pedir y validar jugadas.
-- Torno máquina inteligente para intentar ganar y bloquear al jugador si se elige modo de juego contra la máquina.
-- Comprobar ganadora o empate.
-- Controlar el flujo principal del juego.
-- Reiniciar tablero
-
-Control de flujo
+⚙️ Control de flujo
 
 - Bucles while y for.
 - Condicionales if, elif, else.
